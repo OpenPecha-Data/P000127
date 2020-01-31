@@ -1,0 +1,100 @@
+id: 57d0fe78bdb0473eb1ba9cbd2fffc6ee
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 3d7171b04b0c49059d31751f84261af4
+  span:
+    start: 19616
+    end: 19735
+- id: 963c4282a7f44ee9a81c261e956c6d13
+  span:
+    start: 23526
+    end: 23834
+- id: 94f6e2a155634ca0a6a96b71dc94aa76
+  span:
+    start: 24621
+    end: 24770
+- id: 9ccd2371a42c4a78ae3108b87aad4652
+  span:
+    start: 28003
+    end: 28101
+- id: 10d47fef34984ed59f6c07c892a48c50
+  span:
+    start: 31591
+    end: 31651
+- id: 76ea2080db5c4c3297b4a29a12d6ea93
+  span:
+    start: 31677
+    end: 31796
+- id: ff7ae222b49b437a94b4b5fd86261da2
+  span:
+    start: 58110
+    end: 58295
+- id: 3f5354db7b9f46dcab9a423de34fad01
+  span:
+    start: 98843
+    end: 98906
+- id: 1a969258435e413db45cb3b488609d22
+  span:
+    start: 111994
+    end: 112428
+- id: da8dfc16dfe04ea785dccefb725651d6
+  span:
+    start: 130820
+    end: 130819
+- id: 91432167054c4097a97a4f89b640140f
+  span:
+    start: 131068
+    end: 131067
+- id: ffc317e7d6734720b192df4a6508f8a5
+  span:
+    start: 133917
+    end: 134034
+- id: 28b08023373e4d279ec59205441e9fb1
+  span:
+    start: 162100
+    end: 162363
+- id: 9095b7a5b656458bb98775b3db68ac3a
+  span:
+    start: 163124
+    end: 163218
+- id: fdec5f4f8fb04316b7d4fab36894bfc6
+  span:
+    start: 170146
+    end: 170241
+- id: d54062d94aa5447ea451cf5d07861fed
+  span:
+    start: 173182
+    end: 173536
+- id: fe0bf69e6e884a2c94f92312b629474a
+  span:
+    start: 192116
+    end: 192378
+- id: 6b4e96c654504690bde7f26cb9e46e38
+  span:
+    start: 194416
+    end: 194550
+- id: f88db42bf1444b029871a913266b86ca
+  span:
+    start: 196867
+    end: 197010
+- id: 17e1930e85054a3f971b1de12d107ac4
+  span:
+    start: 199935
+    end: 199993
+- id: f4ad108afd8a42fa848440d8eb113b8c
+  span:
+    start: 200771
+    end: 200886
+- id: 4d623f42926a4cdead55762ce409abaa
+  span:
+    start: 201409
+    end: 201523
+- id: 9c5580f811e34dd08c4d096636524d90
+  span:
+    start: 202972
+    end: 203094
+- id: b86afbf514e644efb988002615d40e12
+  span:
+    start: 209041
+    end: 209190

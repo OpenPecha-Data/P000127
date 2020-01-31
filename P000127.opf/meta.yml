@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: སྨྱུང་གནས་ཀྱི་ཆོ་གའི་དམིགས་རིམ་སོགས་ཕྱོགས་བསྒྲིག་འཕགས་པའི་དགོང་རྒྱན་ཞེས་བྱ་བཞུགས་སོ།
+    །
+  authors: []
+  sku: BEN-LB-010
+  layers:
+  - book_title
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: The Ornament of Aryas:A Collection of Texts on Retreat Rites
+    bo: སྨྱུང་གནས་ཀྱི་ཆོ་གའི་དམིགས་རིས་སོགས་ཕྱོགས་བསྒྲིག་འཕགས་པའི་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Benchen Library–  Book 10
+    bo: བེན་ཆེན་དཔེ་མཛོད་ཁང་།–  དེབ། ༡༠
+  author:
+    en: Missing
+    bo: Missing
+  pusblisher:
+    en: Benchen Publications
+    bo: བེན་ཆེན་སློབ་གཉེར་ཁང་།
+  sku: BEN-LB-010
+  category:
+    en: Retreat Manuals
+    bo: མཚམས་དེབ་ཆུང་།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: BEN-LB-010.epub
+  description:
+    en: ''
+    bo: པོད་འདིའི་ནང་ལ་སྨྱུང་གནས་ཀྱི་ཆོ་གའི་དམིགས་རིམ་རྣམས་ཕྱོགས་བསྒྲིགས་ཞུས་ཡོད།་
