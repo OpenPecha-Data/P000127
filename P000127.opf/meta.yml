@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000127
+initial_creation_type: ebook
+source_metadata:
   title: སྨྱུང་གནས་ཀྱི་ཆོ་གའི་དམིགས་རིམ་སོགས་ཕྱོགས་བསྒྲིག་འཕགས་པའི་དགོང་རྒྱན་ཞེས་བྱ་བཞུགས་སོ།
     །
   authors: []
-  sku: BEN-LB-010
   layers:
   - book_title
   - chapter_title
@@ -10,6 +11,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: BEN-LB-010
 web_metadata:
   title:
     en: The Ornament of Aryas:A Collection of Texts on Retreat Rites
