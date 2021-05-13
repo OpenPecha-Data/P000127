@@ -2,103 +2,103 @@ id: 651f16ce146848c1b2f1447e9ecd4937
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: d8a384d42a8143c4bf476c428345e798
-  span:
-    start: 19324
-    end: 19459
-- id: ffe11612606f4e97830cbc237609f9dc
-  span:
-    start: 20757
-    end: 20851
-- id: 9505e8d54537434d9a5fa047c160de31
-  span:
-    start: 21599
-    end: 21621
-- id: 6c3cd0574d7a4c42a117c305c1a36cb9
-  span:
-    start: 23847
-    end: 23890
-- id: 8dc62ce01e974df38c735be29312ba4a
-  span:
-    start: 24500
-    end: 24529
-- id: 6b940f44676743b6ba0f7e1f3b74b6be
-  span:
-    start: 117770
-    end: 117797
-- id: df56e6627dfa4dfab2803b8bb0936f39
-  span:
-    start: 118226
-    end: 118380
-- id: 83451caae6d348498ef5b06d1e0c46ee
-  span:
-    start: 123799
-    end: 123848
-- id: cd7db998f21d4d7bb6b148360f9cc9fc
-  span:
-    start: 125770
-    end: 125810
-- id: 6eff18a435e04ef8b613846f3d1d135c
-  span:
-    start: 127921
-    end: 128034
-- id: 11a8a75a8fd2429d945caf43361e9345
-  span:
-    start: 130265
-    end: 130302
-- id: 2c521dc3e8204b0f98119b0ba7a7aefd
-  span:
-    start: 131202
-    end: 131256
-- id: 99b442bbccaa464ba15ebff438fc9381
-  span:
-    start: 134052
-    end: 134089
-- id: 003422b753e84b568cbfb9b497bce1e4
-  span:
-    start: 138812
-    end: 138855
-- id: f5b8d49b10d14370b7f741446c0c1fa3
-  span:
-    start: 141554
-    end: 141592
-- id: 57d526844b994231a0e1946dffcb95ca
-  span:
-    start: 142831
-    end: 142860
-- id: 18b4016e13464f25a7cc8e0104b3fc12
-  span:
-    start: 147557
-    end: 147579
-- id: 27c102cc93dd4fff936f81dd802f77fc
-  span:
-    start: 147830
-    end: 147853
-- id: 68ef5d078c5047c8b1a547babffa14f3
-  span:
-    start: 148171
-    end: 148298
-- id: eeaff96774744882b09918cc78faa866
-  span:
-    start: 149290
-    end: 149370
-- id: edfafdfb8f7f4c10be9c69701dbdac9d
-  span:
-    start: 155543
-    end: 155573
-- id: d876889481bb4820a2b8c0065ccadd59
-  span:
-    start: 156437
-    end: 156457
-- id: 11ecabd2ad02474d900d56a0fbd8660c
-  span:
-    start: 210378
-    end: 210399
-- id: 0b048723080b4c71bdad2b59aab23cfb
-  span:
-    start: 210844
-    end: 210863
-- id: 2bfbfb4f137a4a02aba6825e634f0adf
-  span:
-    start: 210984
-    end: 211008
+  d8a384d42a8143c4bf476c428345e798:
+    span:
+      start: 19324
+      end: 19459
+  ffe11612606f4e97830cbc237609f9dc:
+    span:
+      start: 20757
+      end: 20851
+  9505e8d54537434d9a5fa047c160de31:
+    span:
+      start: 21599
+      end: 21621
+  6c3cd0574d7a4c42a117c305c1a36cb9:
+    span:
+      start: 23847
+      end: 23890
+  8dc62ce01e974df38c735be29312ba4a:
+    span:
+      start: 24500
+      end: 24529
+  6b940f44676743b6ba0f7e1f3b74b6be:
+    span:
+      start: 117770
+      end: 117797
+  df56e6627dfa4dfab2803b8bb0936f39:
+    span:
+      start: 118226
+      end: 118380
+  83451caae6d348498ef5b06d1e0c46ee:
+    span:
+      start: 123799
+      end: 123848
+  cd7db998f21d4d7bb6b148360f9cc9fc:
+    span:
+      start: 125770
+      end: 125810
+  6eff18a435e04ef8b613846f3d1d135c:
+    span:
+      start: 127921
+      end: 128034
+  11a8a75a8fd2429d945caf43361e9345:
+    span:
+      start: 130265
+      end: 130302
+  2c521dc3e8204b0f98119b0ba7a7aefd:
+    span:
+      start: 131202
+      end: 131256
+  99b442bbccaa464ba15ebff438fc9381:
+    span:
+      start: 134052
+      end: 134089
+  003422b753e84b568cbfb9b497bce1e4:
+    span:
+      start: 138812
+      end: 138855
+  f5b8d49b10d14370b7f741446c0c1fa3:
+    span:
+      start: 141554
+      end: 141592
+  57d526844b994231a0e1946dffcb95ca:
+    span:
+      start: 142831
+      end: 142860
+  18b4016e13464f25a7cc8e0104b3fc12:
+    span:
+      start: 147557
+      end: 147579
+  27c102cc93dd4fff936f81dd802f77fc:
+    span:
+      start: 147830
+      end: 147853
+  68ef5d078c5047c8b1a547babffa14f3:
+    span:
+      start: 148171
+      end: 148298
+  eeaff96774744882b09918cc78faa866:
+    span:
+      start: 149290
+      end: 149370
+  edfafdfb8f7f4c10be9c69701dbdac9d:
+    span:
+      start: 155543
+      end: 155573
+  d876889481bb4820a2b8c0065ccadd59:
+    span:
+      start: 156437
+      end: 156457
+  11ecabd2ad02474d900d56a0fbd8660c:
+    span:
+      start: 210378
+      end: 210399
+  0b048723080b4c71bdad2b59aab23cfb:
+    span:
+      start: 210844
+      end: 210863
+  2bfbfb4f137a4a02aba6825e634f0adf:
+    span:
+      start: 210984
+      end: 211008
